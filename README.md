@@ -5,6 +5,6 @@ The thesis title is: *__"Evaluating Large Language Models for Retrieval-Augmente
 
 You can find the full thesis [here](docs/Master_thesis_Canova_Tommaso.pdf), and the slides [here](docs/slides/Thesis%20presentation%20.pdf).
 
-If you wanna find an answer on the following question
+If you wanna find an answer for the following question
 ![the_question](media/the_question.png)\
-you probably will check out the [slides](docs/slides/Thesis%20presentation%20.pdf)
+you will probably want to check out the [slides](docs/slides/Thesis%20presentation%20.pdf)! 🤓
